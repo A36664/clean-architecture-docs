@@ -1,3 +1,3 @@
 # Clean-Architecture
 details about the clean architecture
-![alt text](![image](https://miro.medium.com/max/4800/1*Gcm-vIw2z88MzErQPL1BUg.png))
+![alt text](./images/clean-architecture.png)
